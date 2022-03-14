@@ -30,6 +30,7 @@ The analysis of the election show that:
   The purpose of the election audit analysis was to calculate the total votes and determine the winner of the Colorado Contressional Election
 
 ## Challenge Summary
+![Election Results](https://github.com/JTGonzaga/Election_Analysis/blob/main/command_results.png)
 - There were 369,711 votes cast in this congressional election
 - The votes and percentage for each county were:
   - Jefferson: 10.51% of votes and 38,855 votes
